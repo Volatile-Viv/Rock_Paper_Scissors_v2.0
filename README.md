@@ -10,6 +10,11 @@ To play the game, follow these steps:
 2. Make sure you have Python installed.
 3. Open the terminal or command prompt and navigate to the directory where the code files are located.
 4. Run the following command to execute the game:
+ 
+   ```
+   python game.py
+   ```
+   
 5. The game will start, and you will be prompted to enter your move. Use the following keys:
 
 - 'R' for rock
